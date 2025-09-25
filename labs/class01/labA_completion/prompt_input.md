@@ -1,7 +1,9 @@
 # Prompt / Input (before LLM)
 
-I wrote the natural-language comment above the function:
-- receives two dates in format YYYY-MM-DD
-- computes absolute difference in days
-- returns an integer
-- include type hints and a docstring
+# Write a function that:
+# - receives two dates in format YYYY-MM-DD
+# - computes the difference in days between them
+# - returns the absolute result as an integer
+# Include type hints and a docstring with an example.
+
+
