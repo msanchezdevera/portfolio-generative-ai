@@ -15,13 +15,6 @@ venv/
 # Notebooks / cache
 .ipynb_checkpoints/
 
-# Media exports
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-
 # PPT exports
 ppt/*.pptx
 
