@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+
+# OS
+.DS_Store
+
+# Notebooks / cache
+.ipynb_checkpoints/
+
+# Media exports
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# PPT exports
+ppt/*.pptx
+
+# Optional: exclude recordings if not using LFS
+# labs/**/recording/*

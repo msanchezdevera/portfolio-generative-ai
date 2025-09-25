@@ -1,0 +1,2 @@
+# Only needed if you want to run helper scripts
+# Python 3.11+ recommended
